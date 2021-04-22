@@ -4,9 +4,9 @@ Vakkuri et al. [1] devised the ECCOLA method, a AI Ethics card-game for discussi
 
 This method allows developers to implement ethical principles through a deck of cards with topics on AI ethics, with the objective of creating ethical user stories to serve as items in the product backlog.
 
-This repository is an implementation of ECCOLA, working as an interactive guide that can be accessed by the Product Owner when eliciting ethical requirements with the development team.
+This repository is an implementation of ECCOLA, working as an interactive guide that can be accessed by the Product Owner, with the development team, when eliciting ethical requirements for AI based systems.
 
-This work was done as a partial result from the research done during the Master in Informatics in University of Brasília (UnB) by José Antonio Siqueira de Cerqueira, advised by Edna Dias Canedo, and created in collaboration with Anayran Pinheiro de Azevedo.
+This work was done as a partial result from the research done during the Master in Informatics at the University of Brasília (UnB) by José Antonio Siqueira de Cerqueira, advised by Edna Dias Canedo, and created in collaboration with Anayran Pinheiro de Azevedo.
 
 Version 1.0
 
